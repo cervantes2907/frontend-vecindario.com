@@ -1,0 +1,57 @@
+/* .addpost{
+    display:grid;
+    justify-content: center;
+    
+}
+
+.postformcontent{
+    background-color: black;
+}
+
+.postButtom{
+    margin-top: -7rem;
+    margin-bottom: 1rem;
+    height: 2rem;
+} */
+
+.addpost{
+
+    width: 95%;
+    height: 20rem;
+    margin-left: 2.5%;
+}
+
+
+
+.postNameForm{
+    margin-left: 15%;
+    margin-top: 1rem;
+    height: 2.5rem;
+    width: 60%;
+}
+
+.postEmailForm{
+    margin-left: 15%;
+    margin-top: 5px;
+    height: 2.5rem;
+    width: 60%;
+}
+
+.postMessageForm{
+    margin-left: 15%;
+    height: 10rem;
+    width: 60%;
+    margin-top: 5px;
+}
+
+.postButtomForm{
+    margin-left: 15%;
+    height: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.postButtomForm:hover{
+    border-radius: 5px;
+    background-color: rgb(26, 128, 223);
+
+}

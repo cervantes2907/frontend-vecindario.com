@@ -1,0 +1,14 @@
+.PostListGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 600px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+@media (max-width: 540Px){
+    .PostListGrid{
+        grid-template-columns: 95%;
+
+    }
+}

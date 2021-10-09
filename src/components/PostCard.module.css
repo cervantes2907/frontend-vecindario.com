@@ -1,0 +1,75 @@
+.postCard{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(117, 32, 32) ;
+    font-size: 1.5rem; 
+    border: solid 2px white;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    overflow: hidden;
+}
+
+.PostCard:hover{
+    opacity: 0.8;
+}
+
+.title{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    color:White;
+}
+.id{
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    color:White;
+
+}
+
+.createPost{
+    margin-left: 1rem;
+    margin-bottom:2rem;
+    color:White;
+
+}
+
+.content{
+    margin-left: 1rem;
+    margin-bottom:1rem;
+    color:White;
+    height: 100px;
+
+}
+
+.likesPost{
+    margin-left: 1rem;
+    margin-bottom:1rem;
+    color:White;
+
+
+
+}
+
+.dislikesPost{
+    margin-left: 1rem;
+    margin-bottom:1rem;
+    color:White;
+}
+
+
+
+.commentPost{
+    margin-left: 1rem; 
+    color:White;
+
+
+
+}
+@media (max-width: 540Px){
+    .PostCard{
+        width: 95%;
+        height: 400px;
+
+    }
+}

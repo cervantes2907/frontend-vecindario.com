@@ -1,0 +1,46 @@
+/* .detailsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col {
+    max-width: 80%;
+    margin: 15px;
+    height: auto;
+}
+
+.postDetails {
+    font-size: 1.5rem;
+}
+
+.firstItem {
+    margin-top: 0;
+}
+
+.containerButton {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 100px);
+    gap: 10px;
+    justify-content: left;
+}
+
+.containerButton:hover {
+    cursor: pointer;
+}
+
+.prev {
+    cursor: pointer;
+} */
+
+container{
+    width: 95%;
+    height: auto;
+    margin-left: 2.5%;
+}
+
+.detailsPost{
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}

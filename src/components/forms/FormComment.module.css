@@ -1,0 +1,99 @@
+/* .form {
+    width: 25rem;
+   margin-bottom: 3rem;
+   justify-content: center;
+  }
+  
+  
+  input {
+    font-size: 0.875em;
+    width: 470px;
+    height: 50px;
+    padding: 0px 15px 0px 15px;
+    
+    color: #726659;
+    
+    border: solid 1px #b3aca7;
+   
+  }
+  
+  
+  input:hover {
+    background: #b3aca7;
+    color: #e2dedb;
+  }
+  
+  textarea {
+    width: 470px;
+    max-width: 470px;
+    height: 110px;
+    max-height: 110px;
+    padding: 15px;
+    
+  
+  }
+  
+  textarea:hover {
+    background: #b3aca7;
+    color: #e2dedb;
+  }
+  
+  .submit {
+    width: 502px;
+    padding:7px;
+    margin: -5px 0px 0px 0px;
+    
+    font-size: 0.875em;
+    
+    
+  }
+  
+  
+  
+  @media (max-width: 540Px){
+    .form{
+      justify-content: center;
+  
+    }
+  } */
+
+  .formComment{
+    display: block;
+    margin-top: 3rem;
+    height: 20rem;
+    width: 90%;
+    margin-bottom: 2rem;
+    margin-left: 4%;
+    border-radius: 10px;
+  }
+  .postformcontent{
+    height: 18rem;
+    margin-top: 1rem;
+    margin-left: 2%;
+    width: 95%;
+  }
+  .name{
+    margin-top: 1rem;
+    width: 60%;
+    height: 2rem;
+  }
+  
+  .email{
+    width: 60%;
+    height: 2rem;
+    margin-top: 5px;
+  
+  }
+  .message{
+    width: 60%;
+    height: 10rem;
+    margin-top: 5px;
+  }
+  
+  .submit{
+    height: 2.5rem;
+  }
+  .submit:hover{
+    background-color: rgb(26, 128, 223);
+    border-radius: 5px;
+  }
