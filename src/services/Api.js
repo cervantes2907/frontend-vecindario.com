@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 export const Api = axios.create({
-    baseURL: 'http://34.67.224.76',
+    baseURL: 'https://api-vecindario-challenge-eb263m5bka-uc.a.run.app',
     headers: {'Content-Type': 'application/json'}
 });
